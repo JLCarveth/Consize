@@ -8,7 +8,7 @@ Sewage, or more specifically sewage sludge, has long been viewed as a poor ingre
 
 What we flush can be converted into a biocrude oil with properties very similar to fossil fuels. PNNL researchers have worked out a process that does not require that sewage be dried before transforming it under heat and pressure to biocrude. Metro Vancouver in Canada hopes to build a demonstration plant.
 
-Using hydrothermal liquefaction, organic matter such as human waste can be broken down to simpler chemical compounds. The material is pressurized to 3,000 pounds per square inch — nearly one hundred times that of a car tire. Pressurized sludge then goes into a reactor system operating at about 660 degrees Fahrenheit. The heat and pressure cause the cells of the waste material to break down into different fractions — biocrude and an aqueous liquid phase.
+Using hydrothermal liquefaction, organic matter such as human waste can be broken down to simpler chemical compounds. The material is pressurized to 3,000 pounds per square inch â€” nearly one hundred times that of a car tire. Pressurized sludge then goes into a reactor system operating at about 660 degrees Fahrenheit. The heat and pressure cause the cells of the waste material to break down into different fractions â€” biocrude and an aqueous liquid phase.
 
 "There is plenty of carbon in municipal waste water sludge and interestingly, there are also fats," said Corinne Drennan, who is responsible for bioenergy technologies research at PNNL. "The fats or lipids appear to facilitate the conversion of other materials in the wastewater such as toilet paper, keep the sludge moving through the reactor, and produce a very high quality biocrude that, when refined, yields fuels such as gasoline, diesel and jet fuels."
 

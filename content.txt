@@ -1,0 +1,39 @@
+It may sound like science fiction, but wastewater treatment plants across the United States may one day turn ordinary sewage into biocrude oil, thanks to new research at the Department of Energy's Pacific Northwest National Laboratory.
+
+The technology, hydrothermal liquefaction, mimics the geological conditions the Earth uses to create crude oil, using high pressure and temperature to achieve in minutes something that takes Mother Nature millions of years. The resulting material is similar to petroleum pumped out of the ground, with a small amount of water and oxygen mixed in. This biocrude can then be refined using conventional petroleum refining operations.
+
+Wastewater treatment plants across the U.S. treat approximately 34 billion gallons of sewage every day. That amount could produce the equivalent of up to approximately 30 million barrels of oil per year. PNNL estimates that a single person could generate two to three gallons of biocrude per year.
+
+Sewage, or more specifically sewage sludge, has long been viewed as a poor ingredient for producing biofuel because it's too wet. The approach being studied by PNNL eliminates the need for drying required in a majority of current thermal technologies which historically has made wastewater to fuel conversion too energy intensive and expensive. HTL may also be used to make fuel from other types of wet organic feedstock, such as agricultural waste.
+
+What we flush can be converted into a biocrude oil with properties very similar to fossil fuels. PNNL researchers have worked out a process that does not require that sewage be dried before transforming it under heat and pressure to biocrude. Metro Vancouver in Canada hopes to build a demonstration plant.
+
+Using hydrothermal liquefaction, organic matter such as human waste can be broken down to simpler chemical compounds. The material is pressurized to 3,000 pounds per square inch — nearly one hundred times that of a car tire. Pressurized sludge then goes into a reactor system operating at about 660 degrees Fahrenheit. The heat and pressure cause the cells of the waste material to break down into different fractions — biocrude and an aqueous liquid phase.
+
+"There is plenty of carbon in municipal waste water sludge and interestingly, there are also fats," said Corinne Drennan, who is responsible for bioenergy technologies research at PNNL. "The fats or lipids appear to facilitate the conversion of other materials in the wastewater such as toilet paper, keep the sludge moving through the reactor, and produce a very high quality biocrude that, when refined, yields fuels such as gasoline, diesel and jet fuels."
+
+In addition to producing useful fuel, HTL could give local governments significant cost savings by virtually eliminating the need for sewage residuals processing, transport and disposal.
+
+Simple and efficient
+
+"The best thing about this process is how simple it is," said Drennan. "The reactor is literally a hot, pressurized tube. We've really accelerated hydrothermal conversion technology over the last six years to create a continuous, and scalable process which allows the use of wet wastes like sewage sludge."
+
+An independent assessment for the Water Environment & Reuse Foundation calls HTL a highly disruptive technology that has potential for treating wastewater solids. WE&RF investigators noted the process has high carbon conversion efficiency with nearly 60 percent of available carbon in primary sludge becoming bio-crude. The report calls for further demonstration, which may soon be in the works.
+
+Demonstration Facility in the Works
+
+PNNL has licensed its HTL technology to Utah-based Genifuel Corporation, which is now working with Metro Vancouver, a partnership of 23 local authorities in British Columbia, Canada, to build a demonstration plant.
+
+"Metro Vancouver hopes to be the first wastewater treatment utility in North America to host hydrothermal liquefaction at one of its treatment plants," said Darrell Mussatto, chair of Metro Vancouver's Utilities Committee. "The pilot project will cost between $8 to $9 million (Canadian) with Metro Vancouver providing nearly one-half of the cost directly and the remaining balance subject to external funding."
+
+Once funding is in place, Metro Vancouver plans to move to the design phase in 2017, followed by equipment fabrication, with start-up occurring in 2018.
+
+"If this emerging technology is a success, a future production facility could lead the way for Metro Vancouver's wastewater operation to meet its sustainability objectives of zero net energy, zero odours and zero residuals," Mussatto added.
+
+Nothing left behind
+
+In addition to the biocrude, the liquid phase can be treated with a catalyst to create other fuels and chemical products. A small amount of solid material is also generated, which contains important nutrients. For example, early efforts have demonstrated the ability to recover phosphorus, which can replace phosphorus ore used in fertilizer production.
+
+Development of the HTL process was funded by DOE's Bioenergy Technologies Office.
+
+The Water Environment & Reuse Foundation (WE&RF) is a 501c3 charitable corporation seeking to identify, support, and disseminate research that enhances the quality and reliability of water for natural systems and communities with an integrated approach to resource recovery and reuse; while facilitating interaction among practitioners, educators, researchers, decision makers, and the public.

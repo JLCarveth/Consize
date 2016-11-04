@@ -1,0 +1,5 @@
+########################################
+Action: Summarize
+Time: 2016-11-03 20:41:43.940937
+Words in Original:741
+Words in Consized: 368

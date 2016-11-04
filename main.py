@@ -11,11 +11,10 @@ os.chdir("data")
 # Keep all blacklisted words in a text file for easy access/updating
 try:
     blacklist_file = open("blacklist.txt", "r+")
-    log_file = open("log.txt", "a")
     with open("content.txt", "r+") as content_file:
         content = content_file.read()
-except:
-    print('Error opening ')
+except IOError:
+    print('Error opening file.')
 
 blacklist = []
 for line in blacklist_file.readlines():
@@ -135,4 +134,5 @@ def main():
         print(final[x][1], end=" ")
         final_words += len(final[x][1].split(' '))
     write_log(len(words), final_words)
+
 blacklist_file.close()
